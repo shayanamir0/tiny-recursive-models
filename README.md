@@ -1,4 +1,4 @@
-# tiny-recursive-models
+# Tiny Recursive Models
 a clean and readable implementation of **Tiny Recursive Models by Samsung SAIL** from scratch in pytorch.
 The [TRM paper](https://arxiv.org/pdf/2510.04871) builds on ideas introduced in the earlier [Hierarchical Reasoning Model paper](https://arxiv.org/pdf/2506.21734).
 
